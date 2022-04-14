@@ -1,0 +1,25 @@
+body {
+    font-family: 'Send Flowers', cursive;
+    color:black;
+    background-color:#CAB8FF;
+    text-align: center;
+    margin:0px 0px;
+}
+.line {
+    height: 6px;
+    background-color:rgb(252, 248, 248);
+    width:70px;
+    margin : 8px auto;
+}
+#apps {
+    background-color:gray;
+    color:white;
+}
+#myCarousel {
+    background-color:gray;
+    color:white;
+}
+.mus, .neemo {
+    width: 400px;
+    height:600px;
+}
